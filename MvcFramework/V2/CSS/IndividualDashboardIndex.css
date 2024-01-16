@@ -1,0 +1,4 @@
+.no-padd .IndividualDashboardCustomTabs .nav-tabs-custom ul.nav-tabs li     { margin: 0; }
+.no-padd .IndividualDashboardCustomTabs .nav-tabs-custom ul.nav-tabs li a   { /*padding-inline: 32px;*/ width: calc(100% / 5);  }
+.no-padd .IndividualDashboardCustomTabs .nav-tabs-custom ul.nav-tabs li a:after { right: 0; }
+.no-padd .IndividualDashboardCustomTabs .nav-tabs-custom ul.nav-tabs li:last-child a::after { display: none; }
